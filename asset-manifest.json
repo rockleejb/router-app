@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/router-app/static/css/main.bad73ffb.css",
-    "main.js": "/router-app/static/js/main.f49af421.js",
-    "static/js/453.0b4b0abe.chunk.js": "/router-app/static/js/453.0b4b0abe.chunk.js",
-    "static/js/151.8dbc67ac.chunk.js": "/router-app/static/js/151.8dbc67ac.chunk.js",
-    "static/media/logo.svg": "/router-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/router-app/index.html",
-    "main.bad73ffb.css.map": "/router-app/static/css/main.bad73ffb.css.map",
-    "main.f49af421.js.map": "/router-app/static/js/main.f49af421.js.map",
-    "453.0b4b0abe.chunk.js.map": "/router-app/static/js/453.0b4b0abe.chunk.js.map",
-    "151.8dbc67ac.chunk.js.map": "/router-app/static/js/151.8dbc67ac.chunk.js.map"
+    "main.css": "/static/css/main.bad73ffb.css",
+    "main.js": "/static/js/main.6384a2d2.js",
+    "static/js/453.0b4b0abe.chunk.js": "/static/js/453.0b4b0abe.chunk.js",
+    "static/js/151.8dbc67ac.chunk.js": "/static/js/151.8dbc67ac.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.bad73ffb.css.map": "/static/css/main.bad73ffb.css.map",
+    "main.6384a2d2.js.map": "/static/js/main.6384a2d2.js.map",
+    "453.0b4b0abe.chunk.js.map": "/static/js/453.0b4b0abe.chunk.js.map",
+    "151.8dbc67ac.chunk.js.map": "/static/js/151.8dbc67ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bad73ffb.css",
-    "static/js/main.f49af421.js"
+    "static/js/main.6384a2d2.js"
   ]
 }
